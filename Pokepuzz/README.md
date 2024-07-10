@@ -26,6 +26,4 @@ A sliding puzzle game built with Pygame.
     python -m puzzle_game.game
     ```
 
-## License
 
-This project is licensed under the MIT License.
